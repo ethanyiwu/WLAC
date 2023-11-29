@@ -1,8 +1,9 @@
 # KnowComp-Submission-for-WMT23-WLAC-Task
 
-This is the official repository for workshop paper in WMT-WLAC23: KnowComp Submission for WMT23 Word-Level AutoCompletion Task. 
+This is the official repository for workshop paper in WMT-WLAC23: [KnowComp Submission for WMT23 Word-Level AutoCompletion Task](http://www2.statmt.org/wmt23/pdf/2023.wmt-1.79.pdf). 
 
 ![Overview](./overview.png)
+
 
 ### **Cite this work**
 Please use the bibtex below to cite the paper:
